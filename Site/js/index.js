@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function(){
                  
                  <td>
                      <button>Editar</button>
-                     <button>Excluir</button>
+                     <button >Excluir</button>
                 </td>    
 
             `;
